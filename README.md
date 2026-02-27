@@ -15,3 +15,16 @@ Future Goals:
 This project served as my introduction to Object-Oriented Programming. I am currently transitioning from JavaScript to Java in preparation for CS2 KAP, where I will apply these logic foundations to more complex data structures and backend development.
 
 [Click here to view the live interactive demo on CodeHS!](https://codehs.com/share/id/tell-a-story-24TXyL/run)
+
+How to run on your own:
+
+1. Copy the code in Project.js.
+2. Paste it into the CodeHS Sandbox or any JavaScript environment that supports the CodeHS Graphics Library.
+3. Press Run.
+
+<details>
+<summary><b>Click to view my full project reflections</b></summary>
+
+Write your long reflections here! You can talk about what you liked, what was hard, and what you learned about JavaScript.
+
+</details>
