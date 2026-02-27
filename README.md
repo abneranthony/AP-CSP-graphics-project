@@ -14,4 +14,4 @@ Coordinate Geometry: Precise placement of elements within a 400x500 grid system.
 Future Goals:
 This project served as my introduction to Object-Oriented Programming. I am currently transitioning from JavaScript to Java in preparation for CS2 KAP, where I will apply these logic foundations to more complex data structures and backend development.
 
-[![View Demo](https://codehs.com/share/id/tell-a-story-24TXyL/run)
+[Click here to view the live interactive demo on CodeHS!](https://codehs.com/share/id/tell-a-story-24TXyL/run)
