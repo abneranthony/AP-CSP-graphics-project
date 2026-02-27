@@ -43,7 +43,6 @@ function drawScene1(){
     rect7.setPosition(320, 255);
     rect7.setColor("Black");
     add(rect7);
-  
     
     let rect8 = new Rectangle(15, 10);
     rect8.setPosition(310, 275);
@@ -64,7 +63,6 @@ function drawScene1(){
     rect11.setPosition(170, 255);
     rect11.setColor("Black");
     add(rect11);
-    
     
     let rect12 = new Rectangle(15, 10);
     rect12.setPosition(160, 275);
@@ -87,6 +85,7 @@ function drawScene1(){
  * Draws the second scene on the canvas and outputs the second
  * section of text for the story.
  */
+
 function drawScene2(){
    let rect = new Rectangle(400, 500);
     rect.setPosition(1,1);
@@ -164,6 +163,7 @@ function drawScene2(){
  * Draws the third scene on the canvas and outputs the third
  * section of text for the story.
  */
+
 function drawScene3(){
     let rect = new Rectangle(400, 500);
     rect.setPosition(1,1);
@@ -221,6 +221,7 @@ function drawScene3(){
  * Draws the fourth scene on the canvas and outputs the fourth
  * section of text for the story.
  */
+
 function drawScene4(){
     let rect = new Rectangle(400, 500);
     rect.setPosition(1,1);
@@ -313,6 +314,7 @@ function start() {
 /*
  * When this function is called the next scene is drawn.
  */
+
 function drawNextScene(){
     sceneCounter++;
     
