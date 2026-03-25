@@ -2,6 +2,9 @@
 
 A visual scene developed as part of the AP Computer Science Principles curriculum. This project focuses on the fundamentals of 2D systems and object manipulation.
 
+<img width="395" height="475" alt="image" src="https://github.com/user-attachments/assets/b9e145ad-9637-4fc1-b512-253f4413afbe" />
+
+
 Technical Overview:
 This project uses the CodeHS JavaScript Graphics Library to render shapes on a digital canvas. Key programming concepts visualised include:
 .
