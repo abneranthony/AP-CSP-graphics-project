@@ -1,4 +1,4 @@
-# AP-CSP-graphics-project
+# Graphics-Project
 
 A visual scene developed as part of the AP Computer Science Principles curriculum. This project focuses on the fundamentals of 2D systems and object manipulation.
 
